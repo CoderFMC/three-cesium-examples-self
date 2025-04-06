@@ -1,0 +1,33 @@
+[
+  {
+    "id": "fmc_car",
+    "name": "麦克斯韦汽车",
+    "name_en": "FMC Car",
+    "author": "FFMMCC",
+    "tip": "效果超级棒的 three.js实现麦克斯韦汽车展厅项目",
+    "des":"效果超级棒的 three.js实现麦克斯韦汽车展厅项目",
+    "openUrl": "https://g2657.github.io/examples-server/fmc_car/",
+    "githubUrl": "https://gitee.com/fu-meichuan/fmc-personal-blog",
+    "image": "src/assets/img/汽车展厅.png"
+  },
+  {
+    "id": "digital-farmland",
+    "name": "数字农田",
+    "name_en": "FMC Car",
+    "author": "FFMMCC",
+    "des":"Cesium实现的数字农田，包括天气模拟,风险监控热力图,无人机巡航，入侵检测，白膜瓦片加载，echarts大屏",
+    "openUrl": "https://coderfmc.github.io/three.js-demo/digital-farmland/",
+    "githubUrl": "https://gitee.com/fu-meichuan/digital-farmland",
+    "image": "src/assets/img/智慧农田.png"
+  },
+  {
+    "id": "three-run-game",
+    "name": "滚动的天空",
+    "name_en": "FMC Car",
+    "author": "FFMMCC",
+    "des":"一个基于 Three.js 的跑酷类游戏，玩家操控一个小球在赛道上躲避障碍物并向前运动",
+    "openUrl": "https://coderfmc.github.io/three.js-demo/three-run-game/",
+    "githubUrl": "https://gitee.com/fu-meichuan/three-run-game",
+    "image": "src/assets/img/game.png"
+  }
+]

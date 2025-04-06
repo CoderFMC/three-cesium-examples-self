@@ -1,0 +1,24 @@
+[
+  {
+    "id": "qxtx",
+    "name": "全息投影",
+    "name_en": "FMC Car",
+    "author": "FFMMCC",
+    "tip": "全息投影",
+    "des":"全息投影",
+    "openUrl": "https://z2586300277.github.io/three-cesium-examples/#/codeMirror?navigation=ThreeJS&classify=shader&id=hologram",
+    "githubUrl": "https://gitee.com/fu-meichuan/three.js-journey/tree/master/30Hologram",
+    "image": "src/assets/img/全息投影 (1).png"
+  },
+  {
+    "id": "lzyh",
+    "name": "粒子烟花",
+    "name_en": "FMC Car",
+    "author": "FFMMCC",
+    "tip": "效果超级棒的 three.js实现麦克斯韦汽车展厅项目",
+    "des":"粒子烟花",
+    "openUrl": "https://z2586300277.github.io/three-cesium-examples/#/codeMirror?navigation=ThreeJS&classify=particle&id=particleFire",
+    "githubUrl": "https://gitee.com/fu-meichuan/three.js-journey/tree/master/31Fireworks",
+    "image": "src/assets/img/烟花.gif"
+  }
+]
